@@ -1,0 +1,4 @@
+# requirements to use this tool
+pandas
+pyfiglet
+openpyxl
